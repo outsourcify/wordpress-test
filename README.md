@@ -29,7 +29,7 @@ The form can be sent to an email address or stored internally in WordPress.
 
 ## Requirements
 1. Use the Outsourcify Wordpress Starter Theme
-1. Use [Timber](https://github.com/timber/timber) and [ACF](https://www.advancedcustomfields.com/)
+1. Use [Timber](https://github.com/timber/timber) and [ACF](https://www.advancedcustomfields.com/) plugins
 1. For the form you can use a form plugin of your choice (Contact Form 7, Gravity Forms)
 1. Add some minimal styling and make the pages responsive according your best judgement.
 1. Make the pages the smallest possible size - optimize images, disable jQuery or any other unnecessary scripts/stylesheets, etc.
